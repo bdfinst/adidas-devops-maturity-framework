@@ -24,7 +24,7 @@ and happiness of the team.
 The framework defines maturity levels for each capability that teams can use to self-assess their 
 current maturity and understand what needs to be done to go to the next level. 
 
-As practitioners Lean practitioners our framework is in continuous evolution and the "Run" of today 
+As Lean practitioners, our framework is in continuous evolution and the "Run" of today 
 might be the "Walk" of tomorrow, helping the teams to aim for continuous improvement.
 
 ### Contents
